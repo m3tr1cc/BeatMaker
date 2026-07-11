@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+.npm-cache/
+coverage/
+*.local
+*.log
+.DS_Store
+
+.vercel
